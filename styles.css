@@ -1,0 +1,42 @@
+body {
+    background: #b7d5e5;
+    margin: 20px;
+    font-family: "Edu AU VIC WA NT Dots", cursive;
+}
+
+header {
+    border-bottom: solid 5px white;
+    padding: 20px;
+    font-size: 32px;
+}
+
+.intro {
+    background: #83bddd;
+    padding-bottom: 70px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+h1 {
+font-size: 40px;
+margin: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    height: 250px;
+}
+ 
+.outros {
+    padding-left: 20px;
+    padding-right: 20;
+}
